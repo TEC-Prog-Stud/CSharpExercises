@@ -152,7 +152,7 @@ Det skal virke sådan her:
 var d = new Dictionary<string, List<string>>
 {
     ["move"] = new List<string> { "liikuttaa" },
-    ["hide"] = new List<string> { "piilottaa', 'salata" },
+    ["hide"] = new List<string> { "piilottaa", "salata" },
     ["six"] = new List<string> { "kuusi" },
     ["fir"] = new List<string> { "kuusi" }
 };
